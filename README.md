@@ -14,7 +14,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-e8eaea?style=for-the-badge&logo=JiraSoftware&logoColor=0052CC)
 ![GitHub](https://img.shields.io/badge/-GitHub-e8eaea?style=for-the-badge&logo=GitHub&logoColor=171515)
 
-##Testing Documentation 
+## Testing Documentation 
 [Checklists](https://github.com/dgalashov/qa_profile/tree/main/checklists)
 [Test-Cases and Bug-Reports](https://github.com/dgalashov/qa_profile/tree/main/test_cases)
 [Test Design](https://github.com/dgalashov/qa_profile/tree/main/test_design)
