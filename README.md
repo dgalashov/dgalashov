@@ -6,14 +6,14 @@
 ![English](https://img.shields.io/badge/-English(B1)-e8eaea?style=for-the-badge&logo=MicrosoftTranslator&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-e8eaea?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 ![Postman](https://img.shields.io/badge/-Postman-e8eaea?style=for-the-badge&logo=Postman&logoColor=ff7f27)
-![Test Design](https://img.shields.io/badge/-TestDesing-e8eaea?style=for-the-badge&logo=GitHub&logoColor=171515)
+![Test Design](https://img.shields.io/badge/-TestDesing-e8eaea?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-Jira-e8eaea?style=for-the-badge&logo=JiraSoftware&logoColor=0052CC)
 ![GitHub](https://img.shields.io/badge/-GitHub-e8eaea?style=for-the-badge&logo=GitHub&logoColor=171515)
 
 
 ## How to reach me
-[![Telegram](https://img.shields.io/badge/-Telegram-e8eaea?style=for-the-badge&logo=Telegram&logoColor=0088cc)](t.me/galdms)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=8d6cab)](https://www.linkedin.com/in/dmitriy-g-411503259)
+[![Telegram](https://img.shields.io/badge/-Telegram-e8eaea?style=for-the-badge&logo=Telegram&logoColor=0088cc)](https://t.me/galdms)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-e8eaea?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/dmitriy-g-411503259)
 
 
 <!--
