@@ -2,7 +2,13 @@
 
 About me
 
-Language and Tools
+## Skills and Tools
+![English](https://img.shields.io/badge/-English(B1)-e8eaea?style=flat&logo=MicrosoftTranslator&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-e8eaea?style=flat&logo=PostgreSQL&logoColor=336791)
+![Postman](https://img.shields.io/badge/-Postman-e8eaea?style=flat&logo=Postman&logoColor=ff7f27)
+![Test Design](https://img.shields.io/badge/-TestDesing-e8eaea?style=flat&logo=GitHub&logoColor=171515)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=JiraSoftware&logoColor=0052CC)
+![GitHub](https://img.shields.io/badge/-GitHub-e8eaea?style=flat&logo=GitHub&logoColor=171515)
 
 How to reach me
 
