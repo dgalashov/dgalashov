@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/dgalashov/dgalashov/blob/main/assets/logoza.ru.png)](https://github.com/dgalashov/qa_profile)
 
 About me
 
